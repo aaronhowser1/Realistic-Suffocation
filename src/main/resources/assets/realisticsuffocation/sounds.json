@@ -1,0 +1,8 @@
+{
+  "ragdoll": {
+    "sounds": [
+      "realisticsuffocation:ragdoll"
+    ],
+    "subtitle": "subtitle.realisticsuffocation.ragdoll"
+  }
+}
